@@ -1,0 +1,22 @@
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.exe.config
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.exe
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.pdb
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.AssemblyReference.cache
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.Form1.resources
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.Properties.Resources.resources
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.GenerateResource.cache
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.CoreCompileInputs.cache
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.exe
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.pdb
+D:\repos\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.outPut.resources
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.exe.config
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.exe
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\bin\Debug\TextFrequencyAnalysis.pdb
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.outPut.resources
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.exe
+C:\Users\User\OneDrive\Рабочий стол\TextFrequencyAnalysis\TextFrequencyAnalysis\obj\Debug\TextFrequencyAnalysis.pdb
